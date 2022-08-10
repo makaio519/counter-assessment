@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+}
+#output {
+    font-size: xxx-large;
+    color: black;
+    margin-top: 222px;
+}
+#ui {
+    margin-top: 111px;
+    display: block;
+}
+#number1 {
+    width: 90px;
+    height: 50px;
+    border: solid;
+    border-radius: 10px;
+    text-align: center;
+    text-align: center;
+    font-size: x-large;
+    border-color: gray;
+    color: black;
+}
+#plus {
+    width: 66px;
+    height: 66px;
+    border: solid;
+    color: gray;
+    border-radius: 10px;
+    font-size: x-large;
+    color: white;
+    background-color: lightgray;
+}
+#minus {
+    width: 66px;
+    height: 66px;
+    border: solid;
+    color: gray;
+    border-radius: 10px;
+    font-size: x-large;
+    color: white;
+    background-color: lightgray;
+}
+#plus:hover {
+    background-color: rgb(44, 44, 44);
+}
+#minus:hover {
+    background-color: rgb(44, 44, 44);
+}
